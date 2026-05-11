@@ -915,14 +915,6 @@
     ],
     "players": [
         {
-            "name": "dd",
-            "car": "dd",
-            "power": 1230,
-            "torque": 123,
-            "weight": 1230,
-            "points": 3
-        },
-        {
             "name": "aaa",
             "car": "aaa",
             "power": 123,
@@ -937,6 +929,14 @@
             "torque": 1230,
             "weight": 1230,
             "points": 6
+        },
+        {
+            "name": "dd",
+            "car": "dd",
+            "power": 1230,
+            "torque": 123,
+            "weight": 1230,
+            "points": 3
         }
     ]
 }
