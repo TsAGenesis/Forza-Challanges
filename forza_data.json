@@ -915,14 +915,6 @@
     ],
     "players": [
         {
-            "name": "asd",
-            "car": "asd",
-            "power": 1230,
-            "torque": 1230,
-            "weight": 1230,
-            "points": 6
-        },
-        {
             "name": "aaa",
             "car": "aaa",
             "power": 123,
