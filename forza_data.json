@@ -922,6 +922,15 @@
             "torque": 777,
             "weight": 777,
             "points": 0
+        },
+        {
+            "name": "Niko",
+            "car": "Koenigsegg Gemera",
+            "class": "S1",
+            "power": 999,
+            "torque": 995,
+            "weight": 999,
+            "points": 0
         }
     ]
 }
