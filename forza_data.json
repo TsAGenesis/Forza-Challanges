@@ -917,7 +917,7 @@
         {
             "name": "Tom",
             "car": "Porsche 991 Gt3",
-            "class": "X",
+            "class": "B",
             "power": 777,
             "torque": 777,
             "weight": 777,
@@ -926,7 +926,7 @@
         {
             "name": "Niko",
             "car": "Koenigsegg Gemera",
-            "class": "X",
+            "class": "B",
             "power": 999,
             "torque": 995,
             "weight": 999,
@@ -935,7 +935,7 @@
         {
             "name": "Paddy",
             "car": "Golf3 Vr6",
-            "class": "X",
+            "class": "B",
             "power": 666,
             "torque": 666,
             "weight": 666,
@@ -944,7 +944,7 @@
         {
             "name": "Tobi",
             "car": "VW Golf +",
-            "class": "X",
+            "class": "B",
             "power": 456,
             "torque": 654,
             "weight": 1,
@@ -953,7 +953,7 @@
         {
             "name": "Aldi / Flo",
             "car": "Moped",
-            "class": "X",
+            "class": "B",
             "power": 21,
             "torque": 150,
             "weight": 5000,
