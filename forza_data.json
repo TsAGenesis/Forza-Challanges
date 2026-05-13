@@ -949,6 +949,15 @@
             "torque": 654,
             "weight": 1,
             "points": 0
+        },
+        {
+            "name": "Aldi / Flo",
+            "car": "Moped",
+            "class": "S1",
+            "power": 21,
+            "torque": 150,
+            "weight": 5000,
+            "points": 0
         }
     ]
 }
