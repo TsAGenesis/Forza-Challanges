@@ -913,5 +913,15 @@
             "class": "S1"
         }
     ],
-    "players": []
+    "players": [
+        {
+            "name": "Tom",
+            "car": "Porsche 991 Gt3",
+            "class": "S1",
+            "power": 777,
+            "torque": 777,
+            "weight": 777,
+            "points": 0
+        }
+    ]
 }
