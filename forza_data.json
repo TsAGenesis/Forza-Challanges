@@ -931,6 +931,15 @@
             "torque": 995,
             "weight": 999,
             "points": 0
+        },
+        {
+            "name": "Paddy",
+            "car": "Golf3 Vr6",
+            "class": "S1",
+            "power": 666,
+            "torque": 666,
+            "weight": 666,
+            "points": 0
         }
     ]
 }
