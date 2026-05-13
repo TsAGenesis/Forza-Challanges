@@ -917,47 +917,47 @@
         {
             "name": "Tom",
             "car": "Porsche 991 Gt3",
-            "class": "B",
+            "class": "S2",
             "power": 777,
             "torque": 777,
             "weight": 777,
-            "points": 10
+            "points": 0
         },
         {
             "name": "Niko",
             "car": "Koenigsegg Gemera",
-            "class": "B",
+            "class": "S2",
             "power": 999,
             "torque": 995,
             "weight": 999,
-            "points": 8
+            "points": 0
         },
         {
             "name": "Paddy",
             "car": "Golf3 Vr6",
-            "class": "B",
+            "class": "S2",
             "power": 666,
             "torque": 666,
             "weight": 666,
-            "points": 6
+            "points": 0
         },
         {
             "name": "Tobi",
             "car": "VW Golf +",
-            "class": "B",
+            "class": "S2",
             "power": 456,
             "torque": 654,
             "weight": 1,
-            "points": 4
+            "points": 0
         },
         {
             "name": "Aldi / Flo",
             "car": "Moped",
-            "class": "B",
+            "class": "S2",
             "power": 21,
             "torque": 150,
             "weight": 5000,
-            "points": 2
+            "points": 0
         }
     ]
 }
