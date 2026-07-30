@@ -3,914 +3,1084 @@
         {
             "name": "BATTLETRACK VII (107 412 196)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "LE RUNDKURS (587 015 439)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK I (218 679 816)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "DESERTRACE (157 121 204)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night Sprint (867 914 925)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK II (595 275 934)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK VI (240 882 798)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "HORIZON MEXICO, RUNDSTRECKE (130 572 240)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLE-TRACK IV (433 652 161)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITYTOUR (662 067 352)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "MONTE CARLO WRC SS (934 043 713)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK VIII (735 673 054)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK IX (114 051 205)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Rundstrecke um Guanajuato (965 411 053)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "STADIUM SPRINT (147 155 053)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Rundstrecke A/S1 (182 958 524)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK X (143 759 139)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Stadt Rundkurs (601 379 988)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK XI (132 086 031)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "TROPICAL CIRCUIT (779 998 753)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Wild Sprint (149 262 571)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "JUNGLE CIRCUIT (274 950 056)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Vulcano Sprint (169 817 821)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITY RACING (963 920 362)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V1 (178 418 516)",
             "class": "B",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "SHORT CIRCUIT (133 217 414)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night in the City (771 480 254)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night in the City [Rain] (676 606 416)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Into The Jungle (106 049 675)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Beach Circuit (141 831 852)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "City Racing 2.0 (877 207 278)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Battletrack XIII (126 191 418)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Circuito De Mulege - 2 Laps (478 870 770)",
             "class": "B",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK VII (107 412 196)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CIRCUIT DE GEWAGTEN (117 850 990)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK I (218 679 816)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "LE RUNDKURS (587 015 439)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night Sprint (867 914 925)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "DESERTRACE (157 121 204)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK VI (240 882 798)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK II (595 275 934)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLE-TRACK IV (433 652 161)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "HORIZON MEXICO, RUNDSTRECKE (130 572 240)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "MONTE CARLO WRC SS (934 043 713)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITYTOUR (662 067 352)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK IX (114 051 205)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK VIII (735 673 054)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "STADIUM SPRINT (147 155 053)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Rundstrecke um Guanajuato (965 411 053)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "VUCLAN SPRINT V2 (140 068 644)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "El Rundkursio (164 537 800)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK X (143 759 139)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Rundstrecke A/S1 (182 958 524)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK XI (132 086 031)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Stadt Rundkurs (601 379 988)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Wild Sprint (149 262 571)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "TROPICAL CIRCUIT (779 998 753)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Canyon Run (177 062 480)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "JUNGLE CIRCUIT (274 950 056)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Vulcano Sprint (169 817 821)",
             "class": "A",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITY RACING (963 920 362)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "SHORT CIRCUIT (133 217 414)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night in the City (771 480 254)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night in the City [Rain] (676 606 416)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Into The Jungle (106 049 675)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Beach Circuit (141 831 852)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "City Racing 2.0 (877 207 278)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Battletrack XIII (126 191 418)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Circuito De Mulege - 2 Laps (478 870 770)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V1 (178 418 516)",
             "class": "A",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "LE SPRINT (121 724 825)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Around the Lake (136 687 054)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK VII (107 412 196)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CIRCUIT DE GEWAGTEN (117 850 990)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK I (218 679 816)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "LE RUNDKURS (587 015 439)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "DESERT CIRCUIT (148 035 793)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "DESERTRACE (157 121 204)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK VI (240 882 798)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK II (595 275 934)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "FUN TRACK 2 (191 003 086)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "HORIZON MEXICO, RUNDSTRECKE (130 572 240)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "ABANDONED PLACE (676 785 314)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Beach Circuit (141 831 852)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLE-TRACK IV (433 652 161)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "SILVERSTONE CIRCUIT (957 933 249)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK IX (114 051 205)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK VIII (735 673 054)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "STADIUM SPRINT (147 155 053)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Rundstrecke um Guanajuato (965 411 053)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "VUCLAN SPRINT V2 (140 068 644)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "El Rundkursio (164 537 800)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK X (143 759 139)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Rundstrecke A/S1 (182 958 524)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BATTLETRACK XI (132 086 031)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BEACH CIRCUIT (463 107 344)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Wild Sprint (149 262 571)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "TROPICAL CIRCUIT (779 998 753)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Canyon Run (177 062 480)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "JUNGLE CIRCUIT (274 950 056)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Vulcano Sprint (169 817 821)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITY RACING (963 920 362)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night Sprint (867 914 925)",
             "class": "S1",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "SHORT CIRCUIT (133 217 414)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "CITYTOUR (662 067 352)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "In the Jungle (975 417 802)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Into The Jungle (106 049 675)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "City Racing 2.0 (877 207 278)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "A great Experience (175 925 314)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Battletrack XIII (126 191 418)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Circuito De Mulege - 2 Laps (478 870 770)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V1 (178 418 516)",
             "class": "S1",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "LE SPRINT (121 724 825)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "TOUR POR LA SELVA (105 591 181)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "FUN TRACK 2 (191 003 086)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "#GEWAGTEN RUNDSTRECKE (790 690 738)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "LOS JARDINES, RUNDSTRECKE (918 561 748)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Track S2 (213 884 908)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "ABANDONED PLACE (676 785 314)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Track S2 NIGHT (158 881 400)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Xtreme Sprint (969 659 740)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BATTLETRACK VIII (735 673 054)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BIG SOUTH LOOP (316 989 573)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "El Rundkursio (164 537 800)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "VUCLAN SPRINT V2 (140 068 644)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Rundkurs S2 (164 294 959)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "DESERT CIRCUIT (148 035 793)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BEACH CIRCUIT (463 107 344)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BIG SOUTH LOOP NO COLLISION (131 683 094)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITY RUSH (590 581 621)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "marathon (831 198 197)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "MIDDLE MAP LOOP (502 009 335)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Night Sprint (867 914 925)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "VULCANO CIRCUIT (134 224 658)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Canyon Run (177 062 480)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Circuit One (138 750 765)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V2 (118 192 729)",
             "class": "S2",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Circuit One Night (923 695 336)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Lake Circuit (879 571 424)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Quick City Loop (164 533 725)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Challenge Circuit Two (124 531 561)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Challenge Circuit Two Night (461 976 668)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "A great Experience (175 925 314)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V1 (178 418 516)",
             "class": "S2",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "FUN TRACK 2 (191 003 086)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "TOUR POR LA SELVA (105 591 181)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "ABANDONED PLACE (676 785 314)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "EXTRAGEWAGTE RUNDSTRECKE (129 796 149)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "GOLIATH 2.0 (115 126 694)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "#GEWAGTEN RUNDSTRECKE (790 690 738)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "GOLIATH 3.0 (170 673 355)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Rundkurs S2 (164 294 959)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Xtreme Sprint (969 659 740)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "BEACH CIRCUIT (463 107 344)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BIG NORTH LOOP (162 678 335)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "CITY RUSH (590 581 621)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BIG SOUTH LOOP (316 989 573)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "MIDDLE MAP LOOP (502 009 335)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "DESERT CIRCUIT (148 035 793)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "VULCANO CIRCUIT (134 224 658)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "BIG SOUTH LOOP NO COLLISION (131 683 094)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Circuit One (138 750 765)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "marathon (831 198 197)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Challenge Circuit One Night (923 695 336)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V2 (118 192 729)",
             "class": "X",
-            "type": "Sprint"
+            "type": "Sprint",
+            "used": false
         },
         {
             "name": "Lake Circuit (879 571 424)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Challenge Circuit Two (124 531 561)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Challenge Circuit Two Night (461 976 668)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Quick City Loop (164 533 725)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         },
         {
             "name": "Goliath V1 (178 418 516)",
             "class": "X",
-            "type": "Rundkurs"
+            "type": "Rundkurs",
+            "used": false
         }
     ],
     "speed_zones": [
         {
             "name": "Bergpass",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Punta Allen",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Carretera",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Riviera Maya",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "La Silica",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Festival Blitzerzone",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Atlantes De Tula",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Flugplatz Blitzerzone",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Camino Del Cielo",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Mondpyramide",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Klippen",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Serpentinen",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Rio Fuerte",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Ladera",
-            "class": "S1"
+            "used": false
         },
         {
             "name": "Ringstraße",
-            "class": "S1"
+            "used": false
         }
     ],
     "players": [
@@ -921,7 +1091,7 @@
             "power": 777,
             "torque": 777,
             "weight": 777,
-            "points": 5
+            "points": 10
         },
         {
             "name": "Niko",
@@ -930,7 +1100,7 @@
             "power": 999,
             "torque": 995,
             "weight": 999,
-            "points": 4
+            "points": 8
         },
         {
             "name": "Paddy",
@@ -939,7 +1109,7 @@
             "power": 666,
             "torque": 666,
             "weight": 666,
-            "points": 3
+            "points": 6
         },
         {
             "name": "Tobi",
@@ -948,7 +1118,7 @@
             "power": 456,
             "torque": 654,
             "weight": 1,
-            "points": 2
+            "points": 4
         },
         {
             "name": "Aldi / Flo",
@@ -957,7 +1127,55 @@
             "power": 21,
             "torque": 150,
             "weight": 5000,
-            "points": 1
+            "points": 2
+        }
+    ],
+    "history": [
+        {
+            "timestamp": "2026-07-30 20:30:23",
+            "game": "FH5",
+            "type": "Rundkurs/Sprint",
+            "mode": "placement",
+            "track_name": "Keine",
+            "class": "Alle",
+            "points_system": "Standard (Alle kriegen was)",
+            "results": [
+                {
+                    "name": "Tom",
+                    "placement": 1,
+                    "points_earned": 5,
+                    "value": 1,
+                    "car": "Porsche 991 Gt3"
+                },
+                {
+                    "name": "Niko",
+                    "placement": 2,
+                    "points_earned": 4,
+                    "value": 2,
+                    "car": "Koenigsegg Gemera"
+                },
+                {
+                    "name": "Paddy",
+                    "placement": 3,
+                    "points_earned": 3,
+                    "value": 3,
+                    "car": "Golf3 Vr6"
+                },
+                {
+                    "name": "Tobi",
+                    "placement": 4,
+                    "points_earned": 2,
+                    "value": 4,
+                    "car": "VW Golf +"
+                },
+                {
+                    "name": "Aldi / Flo",
+                    "placement": 5,
+                    "points_earned": 1,
+                    "value": 5,
+                    "car": "Moped"
+                }
+            ]
         }
     ]
 }
