@@ -1091,7 +1091,7 @@
             "power": 777,
             "torque": 777,
             "weight": 777,
-            "points": 10
+            "points": 15
         },
         {
             "name": "Niko",
@@ -1100,7 +1100,7 @@
             "power": 999,
             "torque": 995,
             "weight": 999,
-            "points": 8
+            "points": 12
         },
         {
             "name": "Paddy",
@@ -1109,7 +1109,7 @@
             "power": 666,
             "torque": 666,
             "weight": 666,
-            "points": 6
+            "points": 9
         },
         {
             "name": "Tobi",
@@ -1118,7 +1118,7 @@
             "power": 456,
             "torque": 654,
             "weight": 1,
-            "points": 4
+            "points": 6
         },
         {
             "name": "Aldi / Flo",
@@ -1127,12 +1127,58 @@
             "power": 21,
             "torque": 150,
             "weight": 5000,
-            "points": 2
+            "points": 3
         }
     ],
     "history": [
         {
             "timestamp": "2026-07-30 20:30:23",
+            "game": "FH5",
+            "type": "Rundkurs/Sprint",
+            "mode": "placement",
+            "track_name": "Keine",
+            "class": "Alle",
+            "points_system": "Standard (Alle kriegen was)",
+            "results": [
+                {
+                    "name": "Tom",
+                    "placement": 1,
+                    "points_earned": 5,
+                    "value": 1,
+                    "car": "Porsche 991 Gt3"
+                },
+                {
+                    "name": "Niko",
+                    "placement": 2,
+                    "points_earned": 4,
+                    "value": 2,
+                    "car": "Koenigsegg Gemera"
+                },
+                {
+                    "name": "Paddy",
+                    "placement": 3,
+                    "points_earned": 3,
+                    "value": 3,
+                    "car": "Golf3 Vr6"
+                },
+                {
+                    "name": "Tobi",
+                    "placement": 4,
+                    "points_earned": 2,
+                    "value": 4,
+                    "car": "VW Golf +"
+                },
+                {
+                    "name": "Aldi / Flo",
+                    "placement": 5,
+                    "points_earned": 1,
+                    "value": 5,
+                    "car": "Moped"
+                }
+            ]
+        },
+        {
+            "timestamp": "2026-07-30 20:30:36",
             "game": "FH5",
             "type": "Rundkurs/Sprint",
             "mode": "placement",
