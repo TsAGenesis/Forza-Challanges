@@ -1091,7 +1091,7 @@
             "power": 777,
             "torque": 777,
             "weight": 777,
-            "points": 16
+            "points": 0
         },
         {
             "name": "Niko",
@@ -1100,7 +1100,7 @@
             "power": 999,
             "torque": 995,
             "weight": 999,
-            "points": 12
+            "points": 0
         },
         {
             "name": "Paddy",
@@ -1109,7 +1109,7 @@
             "power": 666,
             "torque": 666,
             "weight": 666,
-            "points": 9
+            "points": 0
         },
         {
             "name": "Tobi",
@@ -1118,7 +1118,7 @@
             "power": 456,
             "torque": 654,
             "weight": 1,
-            "points": 6
+            "points": 0
         },
         {
             "name": "Aldi / Flo",
@@ -1127,7 +1127,7 @@
             "power": 21,
             "torque": 150,
             "weight": 5000,
-            "points": 3
+            "points": 0
         }
     ],
     "history": [
